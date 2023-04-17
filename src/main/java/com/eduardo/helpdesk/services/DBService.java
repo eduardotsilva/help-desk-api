@@ -42,6 +42,8 @@ public class DBService {
 		clienteRepository.saveAll(Arrays.asList(cli1));
 		chamadoRepository.saveAll(Arrays.asList(c1));
 		
+		System.out.println("ENTREIIIIIIIIIII 2 " );
+		
 	}
 	
 	
